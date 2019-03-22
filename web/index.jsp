@@ -32,7 +32,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<span></span>
 					<form>
 						<h4>your name</h4>
-						<input type="text" class="user"  placeholder="Name" required="">
+						<input type="text" class="user"   placeholder="Name" required="">
 						<h4>your phone number</h4>
 						<input type="text" class="phone" placeholder="090.234.5678" >
 						<h4>your email address</h4>
